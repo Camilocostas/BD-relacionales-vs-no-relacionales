@@ -1,0 +1,123 @@
+[
+{
+    "_id": 1,
+    "nombre_programa": "Tecnología en Análisis y Desarrollo de Software",
+    "nivel_formacion": "Tecnólogo",
+    "duracion": 24,
+    "estado": "Activo",
+    "fecha_inicio": "2023-01-15",
+    "competencias": [
+    {
+        "id_competencia": 1,
+        "nombre_competencia": "Programación Orientada a Objetos",
+        "horas_estimadas": 200,
+        "modalidades": [
+        {
+            "id_modalidad": 1,
+            "tipo_modalidad": "Presencial",
+            "cupo_maximo": 30,
+            "fecha_inicio": "2024-02-05",
+            "fecha_fin": "2024-06-20"
+        }
+        ]
+    },
+    {
+        "id_competencia": 2,
+        "nombre_competencia": "Bases de Datos Relacionales",
+        "horas_estimadas": 150,
+        "modalidades": [
+        {
+            "id_modalidad": 2,
+            "tipo_modalidad": "Virtual",
+            "cupo_maximo": 50,
+            "fecha_inicio": "2024-03-01",
+            "fecha_fin": "2024-06-15"
+        }
+        ]
+    }
+    ]
+},
+{
+    "_id": 2,
+    "nombre_programa": "Técnico en Sistemas",
+    "nivel_formacion": "Técnico",
+    "duracion": 18,
+    "estado": "Activo",
+    "fecha_inicio": "2023-02-01",
+    "competencias": [
+    {
+        "id_competencia": 3,
+        "nombre_competencia": "Mantenimiento de Equipos de Cómputo",
+        "horas_estimadas": 120,
+        "modalidades": [
+        {
+            "id_modalidad": 3,
+            "tipo_modalidad": "Presencial",
+            "cupo_maximo": 20,
+            "fecha_inicio": "2024-02-10",
+            "fecha_fin": "2024-05-25"
+        }
+        ]
+    }
+    ]
+},
+{
+    "_id": 3,
+    "nombre_programa": "Tecnología en Gestión de Redes de Datos",
+    "nivel_formacion": "Tecnólogo",
+    "duracion": 24,
+    "estado": "Activo",
+    "fecha_inicio": "2023-01-20",
+    "competencias": [
+    {
+        "id_competencia": 4,
+        "nombre_competencia": "Fundamentos de Redes TCP/IP",
+        "horas_estimadas": 100,
+        "modalidades": [
+        {
+            "id_modalidad": 4,
+            "tipo_modalidad": "Mixta",
+            "cupo_maximo": 25,
+            "fecha_inicio": "2024-02-08",
+            "fecha_fin": "2024-05-15"
+        }
+        ]
+    }
+    ]
+},
+{
+    "_id": 4,
+    "nombre_programa": "Curso Especializado en Ciberseguridad",
+    "nivel_formacion": "Curso corto",
+    "duracion": 6,
+    "estado": "Activo",
+    "fecha_inicio": "2024-03-01",
+    "fecha_finalizacion": "2024-08-31",
+    "competencias": [
+    {
+        "id_competencia": 5,
+        "nombre_competencia": "Ethical Hacking y Pentesting",
+        "horas_estimadas": 140,
+        "modalidades": [
+        {
+            "id_modalidad": 5,
+            "tipo_modalidad": "Presencial",
+            "cupo_maximo": 15,
+            "fecha_inicio": "2024-03-20",
+            "fecha_fin": "2024-07-05"
+        }
+        ]
+    }
+    ]
+},
+{
+    "_id": 5,
+    "nombre_programa": "Tecnología en Gestión de Bases de Datos",
+    "nivel_formacion": "Tecnólogo",
+    "duracion": 24,
+    "estado": "Inactivo",
+    "fecha_inicio": "2022-01-10",
+    "fecha_finalizacion": "2023-12-31",
+    "competencias": []
+}
+]

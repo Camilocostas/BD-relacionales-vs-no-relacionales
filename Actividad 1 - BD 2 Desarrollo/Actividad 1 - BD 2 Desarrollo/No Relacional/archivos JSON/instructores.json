@@ -1,0 +1,62 @@
+[
+{
+    "_id": 1,
+    "numero_documento": "1234567890",
+    "tipo_documento": "CC",
+    "nombre_completo": "Carlos Andrés Gómez Martínez",
+    "email": "carlos.gomez@sena.edu.co",
+    "telefono": "3001234567",
+    "especialidad": "Desarrollo de Software",
+    "fecha_vinculacion": "2020-01-15",
+    "estado_instructor": "Activo",
+    "modalidades_asignadas": [1]
+},
+{
+    "_id": 2,
+    "numero_documento": "2345678901",
+    "tipo_documento": "CC",
+    "nombre_completo": "María Fernanda López Rodríguez",
+    "email": "maria.lopez@sena.edu.co",
+    "telefono": "3012345678",
+    "especialidad": "Bases de Datos",
+    "fecha_vinculacion": "2019-03-20",
+    "estado_instructor": "Activo",
+    "modalidades_asignadas": [2]
+},
+{
+    "_id": 3,
+    "numero_documento": "3456789012",
+    "tipo_documento": "CC",
+    "nombre_completo": "Juan Pablo Ramírez Torres",
+    "email": "juan.ramirez@sena.edu.co",
+    "telefono": "3023456789",
+    "especialidad": "Redes y Telecomunicaciones",
+    "fecha_vinculacion": "2021-06-10",
+    "estado_instructor": "Activo",
+    "modalidades_asignadas": [4]
+},
+{
+    "_id": 4,
+    "numero_documento": "4567890123",
+    "tipo_documento": "CC",
+    "nombre_completo": "Ana María Castro Vargas",
+    "email": "ana.castro@sena.edu.co",
+    "telefono": "3034567890",
+    "especialidad": "Seguridad Informática",
+    "fecha_vinculacion": "2020-08-05",
+    "estado_instructor": "Activo",
+    "modalidades_asignadas": [5]
+},
+{
+    "_id": 5,
+    "numero_documento": "5678901234",
+    "tipo_documento": "CC",
+    "nombre_completo": "Luis Eduardo Méndez Silva",
+    "email": "luis.mendez@sena.edu.co",
+    "telefono": "3045678901",
+    "especialidad": "Mantenimiento de Hardware",
+    "fecha_vinculacion": "2018-02-12",
+    "estado_instructor": "Licencia",
+    "modalidades_asignadas": [3]
+}
+]
