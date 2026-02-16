@@ -1,0 +1,112 @@
+[
+{
+    "_id": 1,
+    "numero_documento": "1111111111",
+    "tipo_documento": "CC",
+    "nombre_completo": "Andrés Felipe Pérez González",
+    "email": "andres.perez@misena.edu.co",
+    "telefono": "3101111111",
+    "fecha_nacimiento": "2004-03-15",
+    "direccion": "Calle 10 #20-30",
+    "estado_aprendiz": "Activo",
+    "matriculas": [
+    {
+        "id_matricula": 1,
+        "ficha": "FICHA-2024-001",
+        "id_programa": 1,
+        "nombre_programa": "Tecnología en Análisis y Desarrollo de Software",
+        "fecha_inicio": "2024-02-01",
+        "fecha_fin": null,
+        "estado": "Cursando"
+    }
+    ]
+},
+{
+    "_id": 2,
+    "numero_documento": "2222222222",
+    "tipo_documento": "CC",
+    "nombre_completo": "Laura Daniela García Martínez",
+    "email": "laura.garcia@misena.edu.co",
+    "telefono": "3102222222",
+    "fecha_nacimiento": "2003-07-22",
+    "direccion": "Carrera 15 #30-40",
+    "estado_aprendiz": "Activo",
+    "matriculas": [
+    {
+        "id_matricula": 2,
+        "ficha": "FICHA-2024-001",
+        "id_programa": 1,
+        "nombre_programa": "Tecnología en Análisis y Desarrollo de Software",
+        "fecha_inicio": "2024-02-01",
+        "fecha_fin": null,
+        "estado": "Cursando"
+    }
+    ]
+},
+{
+    "_id": 3,
+    "numero_documento": "3333333333",
+    "tipo_documento": "CC",
+    "nombre_completo": "David Santiago Rodríguez López",
+    "email": "david.rodriguez@misena.edu.co",
+    "telefono": "3103333333",
+    "fecha_nacimiento": "2005-01-10",
+    "direccion": "Avenida 5 #12-25",
+    "estado_aprendiz": "Activo",
+    "matriculas": [
+    {
+        "id_matricula": 3,
+        "ficha": "FICHA-2024-002",
+        "id_programa": 2,
+        "nombre_programa": "Técnico en Sistemas",
+        "fecha_inicio": "2024-02-15",
+        "fecha_fin": null,
+        "estado": "Cursando"
+    }
+    ]
+},
+{
+    "_id": 4,
+    "numero_documento": "4444444444",
+    "tipo_documento": "CC",
+    "nombre_completo": "Camila Andrea Martínez Torres",
+    "email": "camila.martinez@misena.edu.co",
+    "telefono": "3104444444",
+    "fecha_nacimiento": "2004-11-08",
+    "direccion": "Calle 25 #18-45",
+    "estado_aprendiz": "Graduado",
+    "matriculas": [
+    {
+        "id_matricula": 4,
+        "ficha": "FICHA-2024-003",
+        "id_programa": 3,
+        "nombre_programa": "Tecnología en Gestión de Redes de Datos",
+        "fecha_inicio": "2024-02-05",
+        "fecha_fin": "2024-08-05",
+        "estado": "Completado"
+    }
+    ]
+},
+{
+    "_id": 5,
+    "numero_documento": "5555555555",
+    "tipo_documento": "CC",
+    "nombre_completo": "Sebastián Alejandro Hernández Castro",
+    "email": "sebastian.hernandez@misena.edu.co",
+    "telefono": "3105555555",
+    "fecha_nacimiento": "2003-05-30",
+    "direccion": "Carrera 8 #22-15",
+    "estado_aprendiz": "Retirado",
+    "matriculas": [
+    {
+        "id_matricula": 5,
+        "ficha": "FICHA-2024-004",
+        "id_programa": 4,
+        "nombre_programa": "Curso Especializado en Ciberseguridad",
+        "fecha_inicio": "2024-03-20",
+        "fecha_fin": "2024-05-20",
+        "estado": "Retirado"
+    }
+    ]
+}
+]
