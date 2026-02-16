@@ -1,2 +1,2 @@
 # BD-relacionales-vs-no-relacionales
-avance de Actividad 1 - BD 2  
+taller de Actividad 1 - BD 2  
