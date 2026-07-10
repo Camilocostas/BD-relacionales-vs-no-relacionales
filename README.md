@@ -95,4 +95,4 @@ SELECT CONCAT(nombre, ' ', apellido) AS empleado, salario
 
 ## 📄 Licencia
 
-Este repositorio no tiene licencia definida actualmente.
+MIT
